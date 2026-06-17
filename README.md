@@ -18,29 +18,13 @@ Visit the portfolio here:
 
 This portfolio presents my background, skills, certifications, and selected projects. It is designed as a central place to explore my work and contact information.
 
-## Featured Work
-
-- **Rental Property Management System**  
-  Full-stack web application with customer, owner, and manager roles.
-
-- **Flight Tracker**  
-  Web services project using API integrations, Netlify Functions, and map visualization.
-
-- **Data Structures Projects**  
-  Java projects implementing arrays, linked lists, AVL trees, hash tables, heaps, and search structures.
-
-- **Phone Shop Database Management System**  
-  JavaFX and MySQL desktop system for customers, employees, products, orders, and payments.
-
-- **AI Projects Suite**  
-  Artificial Intelligence course projects including simulated annealing and decision-tree based classification.
 
 ## Tech Interests
 
 - Artificial Intelligence and Machine Learning
 - Full-stack web development
 - Database design and SQL
-- Java, Python, PHP, JavaScript
+- Java, Python, 
 - REST APIs and deployed web services
 
 ## Contact
